@@ -1,7 +1,10 @@
 ipykernel
 pandas
 matplotlib
-scikit-learn
 streamlit
 seaborn
 xgboost
+streamlit
+numpy
+scikit-learn==1.9.0
+joblib==1.5.3
